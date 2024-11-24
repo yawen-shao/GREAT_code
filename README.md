@@ -6,4 +6,4 @@
  - [x] Release paper on arxiv.
  - [ ] Release the training, evaluation, and inference code.
  - [ ] Release the pretrained checkpoint.
- - [ ] Release PIADv2 Data.
+ - [ ] Release PIADv2 dataset.
