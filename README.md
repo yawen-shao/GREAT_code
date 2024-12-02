@@ -1,4 +1,4 @@
-[![Website Badge](https://raw.githubusercontent.com/referit3d/referit3d/eccv/images/project_website_badge.svg)]([https://yyvhang.github.io/LEMON](https://yawen-shao.github.io/GREAT/))
+[![Website Badge](https://raw.githubusercontent.com/referit3d/referit3d/eccv/images/project_website_badge.svg)](https://yawen-shao.github.io/GREAT/)
 [![arXiv](https://img.shields.io/badge/arXiv-2411.19626-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2411.19626)
 # GREAT: Geometry-Intention Collaborative Inference for Open-Vocabulary 3D Object Affordance Grounding
 ## ✅ TODO List
