@@ -30,7 +30,7 @@ PyTorch implementation of GREAT: Geometry-Intention Collaborative Inference for 
 
 ## 📖 Dataset <a name="2"></a> 
 <p align="center">
-    <img src="./img/dataset.png" width="750"/> <br />
+    <img src="./images/dataset.png" width="750"/> <br />
     <em> 
     </em>
 </p>
