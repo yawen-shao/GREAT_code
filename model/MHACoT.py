@@ -107,14 +107,12 @@ def split_model(model_name):
 
     return device_map
 
-# If you set `load_in_8bit=True`, you will need two 80GB GPUs.
-# If you set `load_in_8bit=False`, you will need at least three 80GB GPUs.
 path = 'PATH/Affordance_Reasoning_Model'
 device_map = split_model('InternVL2-4B')
 model = AutoModel.from_pretrained(
     path,
     torch_dtype=torch.bfloat16,
-    load_in_8bit=True,
+    #load_in_8bit=True,
     low_cpu_mem_usage=True,
     trust_remote_code=True,
     device_map=device_map).eval()
