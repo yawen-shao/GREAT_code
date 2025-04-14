@@ -5,7 +5,7 @@ img_test: 'Data/Unseen_aff/Img_test.txt'
 point_train: 'Data/Unseen_aff/Point_train.txt'
 point_val: 'Data/Unseen_aff/Point_test.txt'
 point_test: 'Data/Unseen_aff/Point_test.txt'
-batch_size: 32
+batch_size: 16
 lr: 0.0001
 Epoch: 50
 Setting: 'Unseen_aff'

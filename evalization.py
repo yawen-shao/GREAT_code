@@ -87,9 +87,6 @@ def Evalization(dataset, data_loader, model_path, use_gpu, Setting):
     model.load_state_dict(checkpoint['model'])
     model = model.to(device)
   
-    total_params = sum(p.numel() for p in model.parameters())
-    trainable_params = sum(p.numel() for p in model.parameters() if p.requires_grad)
-    
     results = torch.zeros((len(dataset), 2048, 1))
     targets = torch.zeros((len(dataset), 2048, 1))
     total_point = 0

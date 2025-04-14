@@ -5,7 +5,7 @@ img_test: 'Data/Seen/Img_test.txt'
 point_train: 'Data/Seen/Point_train.txt'
 point_val: 'Data/Seen/Point_val.txt'
 point_test: 'Data/Seen/Point_test.txt'
-batch_size: 32
+batch_size: 16
 lr: 0.0001
 Epoch: 65
 Setting: 'Seen'
