@@ -59,7 +59,6 @@ bash train.sh
 ```
 
 ### Evaluation <a name="33"></a> 
-Download the pre-trained [GREAT](https://drive.google.com/drive/folders/1SguE_EuuC1XbMXnxDqbUtT1e1dcHm01b?usp=drive_link).<br> 
 To evaluate the trained GREAT model, run the following command:
 ```bash  
 bash evalization.sh
