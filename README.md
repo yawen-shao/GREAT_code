@@ -23,7 +23,7 @@ PyTorch implementation of GREAT: Geometry-Intention Collaborative Inference for 
 
 ## 💡Overview <a name="1"></a> 
 <p align="center">
-    <img src="./images/method.png" width="750"/> <br />
+    <img src="./images/method.png" width="750.0"/> <br />
     <em> 
     </em>
 </p>
